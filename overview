@@ -1,0 +1,68 @@
+#  NASA GRIT Mission — Gravitational Response In Tissues
+
+**Principal Investigators:**  
+John River Doss, Liam Fauver, David L. Bowker (NASA Wallops)  
+
+**Contact:**  
+river2018d@gmail.com | mrliamfauver@gmail.com | david.l.bowker@nasa.gov  
+
+---
+
+##  Mission Overview
+The **Gravitational Response In Tissues (GRIT)** mission studies how human tissues respond to changing gravitational forces during a sounding rocket flight. Using **organ-on-a-chip (OoC)** systems, GRIT investigates **ocular**, **hepatic**, and **skeletal muscle** tissue reactions under **hypergravity** and **microgravity** conditions.
+
+The mission aims to:
+- Advance understanding of tissue behavior in spaceflight environments.  
+- Support design improvements for astronaut suits and biomedical monitoring.  
+- Provide data for NASA’s Artemis and Gateway programs.  
+
+Launch site: **NASA Wallops Flight Facility, Virginia**  
+Rocket: **Black Brant XII-A Sounding Rocket**  
+Launch date: **August 2030**
+
+---
+
+##  Instrumentation Summary
+
+| Sensor / System | Function | Measurement Focus |
+|-----------------|-----------|-------------------|
+| **Accelerometer (G-Force Sensor)** | Measures acceleration and G-forces | Quantifies dynamic loading during flight |
+| **Barometer** | Records pressure during ascent and re-entry | Evaluates tissue stress under varying atmospheric pressures |
+| **Vibrometer** | Detects mechanical vibrations | Assesses vibration-induced stress and detachment risk |
+| **Thermo-Hygrometer** | Monitors temperature and humidity | Ensures tissue viability by tracking environmental stability |
+| **Microbalance** | Measures tissue mass changes | Detects contraction, swelling, and degradation |
+| **Ion-Selective Electrode (ISE)** | Detects specific ions (Ca²⁺, Na⁺, K⁺) | Tracks ion exchange during muscle excitation |
+| **Optical Coherence Tomography (OCT)** | Non-invasive imaging | Reveals microstructural changes pre- and post-flight |
+| **Telemetry System** | Transmits and stores data | Sends experiment data to ground receivers |
+| **Iridium GPS Tracker** | Ensures payload recovery | Enables water-based retrieval post-splashdown |
+
+---
+
+##  Payload & Recovery
+- Multi-deck RockSAT-style payload holding chip systems and sensors.  
+- Water-sealed capsule with Iridium GPS for ocean recovery.  
+- Redundant Data Acquisition System (DAS) for telemetry and onboard storage.  
+
+---
+
+##  Data & Analysis
+All telemetry, sensor data, and imaging outputs will be publicly released after review.  
+Scripts in the `/analysis/` folder enable:
+- G-force correlation modeling  
+- Tissue response visualization  
+- Environmental condition mapping  
+
+---
+
+##  Outreach
+GRIT promotes STEM engagement for:
+- **Middle school:** Organ-on-chip model building  
+- **High school:** Live launch and NASA mission overview  
+- **College:** Data analysis and biomedical engineering collaboration  
+
+---
+      
+##  Legal & Regulatory
+- Compliant with **ITAR** export regulations (NASA HECC guidance)  
+- Biological components under **FDA CBER** supervision  
+- Mission partners: **Peraton**, **Aerospace Medical Association (AsMA)**  
